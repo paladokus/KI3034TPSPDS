@@ -1,4 +1,4 @@
-# KI3041 - Teknik Preparasi Sampel dan Pengolahan Data Spektroskopi
+# KI3043 (judul repositorynya typo bjir) - Teknik Preparasi Sampel dan Pengolahan Data Spektroskopi
 
 Repository ini berisi materi dan pengolahan data untuk praktikum KI3041 Teknik Preparasi Sampel dan Pengolahan Data Spektroskopi. Praktikum ini bertujuan untuk memberikan pemahaman mendalam tentang teknik preparasi sampel yang tepat untuk berbagai jenis analisis spektroskopi, serta keterampilan dalam mengolah dan menginterpretasi data spektroskopi menggunakan berbagai tools komputasi modern.
 
